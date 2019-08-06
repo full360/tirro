@@ -1,0 +1,7 @@
+target
+
+## IntelliJ IDEA specific
+/.idea
+*.sc
+*.iml
+*.ensime

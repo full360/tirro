@@ -1,0 +1,6 @@
+addSbtPlugin("org.scalariform" % "sbt-scalariform" % "1.8.3")
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.5")
+addSbtPlugin("org.xerial.sbt" % "sbt-sonatype" % "2.0")
+addSbtPlugin("io.spray" % "sbt-revolver" % "0.9.1")
+addSbtPlugin("org.xerial.sbt" % "sbt-pack" % "0.11")
+addSbtPlugin("au.com.onegeek" %% "sbt-dotenv" % "1.2.88")
